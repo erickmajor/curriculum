@@ -22,11 +22,12 @@ I love to work and collaborate with teams and in my spare time, I like to practi
 * HTML5
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Custom CSS)
-* Css Frameworks (Bootstrap)
-* Grunt / Webpack / Npm
+* CSS Frameworks (Bootstrap)
+* Grunt / Webpack / NPM
 * Javascript (Design Patterns, Tests)
 * ReactJS 
 * AngularJS version 1.x
+* Vue.js / Vuex
 * NodeJS (Express, Sequelize, Mongoose)
 * PHP (Zend Framework version 1.x)
 * Git
